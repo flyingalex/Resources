@@ -12,3 +12,5 @@
 
 6.[Express4 package cheatsheets](https://github.com/azat-co/cheatsheets/tree/master/express4)
 
+7.[The League of Extraordinary Packages](http://thephpleague.com/)
+
