@@ -15,3 +15,5 @@
 7.[The League of Extraordinary Packages](http://thephpleague.com/)
 
 8.[Government Report 2017](http://t.cn/Ri9y6LJ)
+
+9.[Hacker Fundamentals and Cutting Through Abstraction](https://www.youtube.com/watch?v=kSuq3Ry9PLQ)
