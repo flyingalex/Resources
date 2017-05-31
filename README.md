@@ -19,3 +19,5 @@
 9.[Hacker Fundamentals and Cutting Through Abstraction](https://www.youtube.com/watch?v=kSuq3Ry9PLQ)
 
 10.[https://codesandbox.io/](https://codesandbox.io/)
+
+11.[Using ctags on modern Javascript](https://dance.computer.dance/posts/2015/04/using-ctags-on-modern-javascript.html)
