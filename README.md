@@ -25,3 +25,10 @@
 12.CSS related
 - [sass guidelin](https://sass-guidelin.es/)
 - [BEM guid](https://en.bem.info/)
+- [http://paletton.com](http://paletton.com)
+- [http://www.colourlovers.com/](http://www.colourlovers.com/)
+- [https://transfonter.org/](https://transfonter.org/)
+
+12. graphql
+- [http://graphql.org/](http://graphql.org/)
+- [https://www.howtographql.com/](https://www.howtographql.com/)
