@@ -32,3 +32,7 @@
 12. graphql
 - [http://graphql.org/](http://graphql.org/)
 - [https://www.howtographql.com/](https://www.howtographql.com/)
+
+13. 设计模式
+
+- [设计模式Java版](https://www.gitbook.com/book/quanke/design-pattern-java/details)
