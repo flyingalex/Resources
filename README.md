@@ -38,3 +38,10 @@
 - [设计模式Java版](https://www.gitbook.com/book/quanke/design-pattern-java/details)
 - [23 种设计模式](http://wiki.jikexueyuan.com/project/java-design-pattern/)
 - [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
+
+14. 图片压缩工具
+- [svgo](https://github.com/svg/svgo)
+
+15. 视频处理工具
+- [ffmpeg](https://ffmpeg.org/)
+- [shaka-packager](https://github.com/google/shaka-packager)
