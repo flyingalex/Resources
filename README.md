@@ -48,3 +48,6 @@
 
 16. 移动端适配
 - [如何在Vue项目中使用vw实现移动端适配](https://www.w3cplus.com/mobile/vw-layout-in-vue.html) 
+
+17. qrcode
+- [generator](https://www.npmjs.com/package/qrcodejs2)
