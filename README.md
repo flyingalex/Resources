@@ -42,9 +42,6 @@
 14. 图片压缩工具
 - [svgo](https://github.com/svg/svgo)
 
-15. 基础知识
-- [所有类别](https://github.com/CyC2018/Interview-Notebook)
-
 15. 视频处理工具
 - [ffmpeg](https://ffmpeg.org/)
 - [shaka-packager](https://github.com/google/shaka-packager)
@@ -57,3 +54,6 @@
 
 18. 算法
 - [动态规划 Dynamic Programming--从菜鸟到老鸟](https://blog.csdn.net/u013309870/article/details/75193592)
+
+19. 基础知识
+- [所有类别](https://github.com/CyC2018/Interview-Notebook)
