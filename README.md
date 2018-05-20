@@ -52,5 +52,5 @@
 17. qrcode
 - [generator](https://www.npmjs.com/package/qrcodejs2)
 
-18. 动态规划
+18. 算法
 - [动态规划 Dynamic Programming--从菜鸟到老鸟](https://blog.csdn.net/u013309870/article/details/75193592)
