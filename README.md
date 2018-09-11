@@ -22,7 +22,7 @@
 
 11.[Using ctags on modern Javascript](https://dance.computer.dance/posts/2015/04/using-ctags-on-modern-javascript.html)
 
-12.CSS related
+12. CSS related
 
 - [sass guidelin](https://sass-guidelin.es/)
 - [BEM guid](https://en.bem.info/)
@@ -42,23 +42,30 @@
 - [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 
 14. 图片压缩工具
+
 - [svgo](https://github.com/svg/svgo)
 
 15. 视频处理工具
+
 - [ffmpeg](https://ffmpeg.org/)
 - [shaka-packager](https://github.com/google/shaka-packager)
 
 16. 移动端适配
+
 - [如何在Vue项目中使用vw实现移动端适配](https://www.w3cplus.com/mobile/vw-layout-in-vue.html) 
 
 17. qrcode
+
 - [generator](https://www.npmjs.com/package/qrcodejs2)
 
 18. 算法
+
 - [动态规划 Dynamic Programming--从菜鸟到老鸟](https://blog.csdn.net/u013309870/article/details/75193592)
 
 19. 基础知识
+
 - [所有类别](https://github.com/CyC2018/Interview-Notebook)
 
 20. 英语学习
+
 - [可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/English-level-up-tips-for-Chinese)
