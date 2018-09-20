@@ -61,6 +61,7 @@
 18. 算法
 
 - [动态规划 Dynamic Programming--从菜鸟到老鸟](https://blog.csdn.net/u013309870/article/details/75193592)
+- [awesome-leetcode](https://github.com/apachecn/awesome-leetcode)
 
 19. 基础知识
 
